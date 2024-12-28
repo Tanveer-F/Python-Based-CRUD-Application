@@ -1,5 +1,5 @@
 # Python Django CRUD Application with JWT Authentication
-Project Overview
+Project Overview:
 This is a simple Python-based CRUD application built using Django. 
 The project implements JWT-based authentication to manage user registration, login, and 
 CRUD operations for posts.
